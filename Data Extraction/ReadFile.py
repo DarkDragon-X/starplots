@@ -1,13 +1,3 @@
-# File: ReadFile.py
-
-# Description: This program reads the data from the bsc5.txt file and formats it into a csv file
-
-# Name:Nipun Nagendra
-
-# UT EID:nn8684
-
-# Date: 6/27/2023
-
 import sys
 def main():
     key = [
